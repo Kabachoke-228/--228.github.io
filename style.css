@@ -1,0 +1,14 @@
+body 
+font-family: "Roboto" , sans-serif;
+margin: 0%
+
+
+\header
+/*Стиль для класса header*/
+backround-image: 
+backround-size: cover;
+color: white;
+backround-color: black;
+
+\name
+text-transform: uppercase;
